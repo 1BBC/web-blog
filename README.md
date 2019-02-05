@@ -1,5 +1,5 @@
 # web-blog
-Simple web blog on procedural php
+Simple web blog on procedural php and bootstrap
 
 ## Settings /include/config.php
 ```php
